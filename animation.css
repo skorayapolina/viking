@@ -1,0 +1,249 @@
+@keyframes viking {
+  0%,
+  100% {
+    transform: rotate(17deg);
+  }
+  25.00% {
+    transform: translate(0, 51px) rotate(17deg);
+  }
+  54.16% {
+    transform: translate(0, 0) rotate(15deg);
+  }
+  75% {
+    transform: translate(0, 52px) rotate(16deg);
+  }
+}
+
+@keyframes vikingShoulderRight {
+  0%,
+  100% {
+    transform: translate(-23px, -13px) rotate(-2deg);
+  }
+  25.00% {
+    transform: translate(-17px, 19px) rotate(48deg);
+  }
+  54.16% {
+    transform: translate(3px, -7px) rotate(2deg);
+  }
+  75% {
+    transform: translate(1px, -14px) rotate(-34deg);
+  }
+}
+
+@keyframes vikingArmRight {
+  0%,
+  100% {
+    transform: rotate(-73deg);
+  }
+  25.00% {
+    transform: rotate(-48deg);
+  }
+  54.16% {
+    transform: rotate(-33deg);
+  }
+  75% {
+    transform: rotate(-56deg);
+  }
+}
+
+@keyframes vikingLegRight {
+  0%,
+  100% {
+    transform: translate(-3px, -4px) rotate(-73deg);
+  }
+  25.00% {
+    transform: translate(-8px, -3px) rotate(-62deg);
+  }
+  54.16% {
+    transform: translate(1px, 8px) rotate(14deg);
+  }
+  75% {
+    transform: translate(6px, -9px) rotate(-69deg);
+  }
+}
+
+@keyframes vikingShinRight {
+  0%,
+  100% {
+    transform: rotate(23deg);
+  }
+  25.00% {
+    transform: rotate(56deg);
+  }
+  54.16% {
+    transform: rotate(47deg);
+  }
+  75% {
+    transform: rotate(129deg);
+  }
+}
+
+@keyframes vikingBootRight {
+  0%,
+  100% {
+    transform: translate(-8px, 6px) rotate(-18deg);
+  }
+  25% {
+    transform: translate(-2px, 5px) rotate(-11deg);
+  }
+  54.16%,
+  75% {
+    transform: translate(9px, 11px) rotate(1deg);
+  }
+}
+
+@keyframes vikingFootRight {
+  0%,
+  100% {
+    transform: rotate(2deg);
+  }
+  25% {
+    transform: rotate(0deg);
+  }
+  54.16% {
+    transform: rotate(5deg);
+  }
+  75% {
+    transform: rotate(26deg);
+  }
+}
+
+@keyframes vikingBootPartRight {
+  0%,
+  100% {
+    transform: skewY(1deg);
+  }
+  25%,
+  54.16% {
+    transform: skewY(1deg);
+  }
+  75% {
+    transform: skewY(31deg);
+  }
+}
+
+@keyframes vikingLegLeft {
+  0%,
+  100% {
+    transform: translate(-22px, 10px) rotate(15deg);
+  }
+  25% {
+    transform: translate(-8px, -12px) rotate(-75deg);
+  }
+  54.16% {
+    transform: translate(8px, -9px) rotate(-69deg);
+  }
+  75% {
+    transform: translate(2px, -9px) rotate(-60deg);
+  }
+}
+
+@keyframes vikingShinLeft {
+  0%,
+  100% {
+    transform: rotate(40deg);
+  }
+  25% {
+    transform: rotate(132deg);
+  }
+  54.16% {
+    transform: rotate(24deg);
+  }
+  75% {
+    transform: rotate(56deg);
+  }
+}
+
+@keyframes vikingBootLeft {
+  0%,
+  100% {
+    transform: rotate(4deg);
+  }
+  25% {
+    transform: translate(-3px, 6px) rotate(3deg);
+  }
+  54.16% {
+    transform: translate(-13px, 11px) rotate(-17deg);
+  }
+  75% {
+    transform: translate(-9px, 8px) rotate(-12deg);
+  }
+}
+
+@keyframes vikingFootLeft {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(36deg);
+  }
+  54.16%,
+  75% {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes vikingHead {
+  0%,
+  100% {
+    transform: translate(4px, 1px) rotate(-15deg);
+  }
+  25% {
+    transform: translate(8px, 1px) rotate(-14deg);
+  }
+  54.16% {
+    transform: translate(8px, 4px) rotate(-15deg);
+  }
+  75% {
+    transform: translate(6px, -3px) rotate(-12deg);
+  }
+}
+
+@keyframes vikingBeard {
+  0%,
+  100% {
+    transform: translateY(-31px);
+  }
+  25% {
+    transform: translateY(-6px);
+  }
+  54.16% {
+    transform: translateY(-30px);
+  }
+  75% {
+    transform: translateY(-6px);
+  }
+}
+
+@keyframes vikingShoulderLeft {
+  0%,
+  100% {
+    transform: translate(-12px, -12px) rotate(-7deg);
+  }
+  25.00% {
+    transform: translate(13px, -21px) rotate(-42deg);
+  }
+  54.16% {
+    transform: translate(-13px, -11px) rotate(1deg);
+  }
+  75% {
+    transform: translate(-33px, -13px) rotate(28deg);
+  }
+}
+
+@keyframes vikingArmLeft {
+  0%,
+  100% {
+    transform: rotate(-2deg);
+  }
+  25.00% {
+    transform: rotate(-22deg);
+  }
+  54.16% {
+    transform: rotate(-47deg);
+  }
+  75% {
+    transform: rotate(-24deg);
+  }
+}
